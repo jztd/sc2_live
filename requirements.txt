@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+setuptools==1.4.2
 BeautifulSoup==3.2.1
 Django==1.5
 distribute==0.7.3
