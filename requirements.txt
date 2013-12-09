@@ -9,4 +9,4 @@ Django==1.5.2
 beautifulsoup4==4.3.1
 distribute==0.7.3
 psycopg2==2.5.1
-trueskill==0.4.1
+
