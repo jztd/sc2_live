@@ -1,1 +1,1 @@
-web: gunicorn sc2_ranks.sc2_ranks.wsgi
+web: gunicorn sc2_ranks.wsgi
