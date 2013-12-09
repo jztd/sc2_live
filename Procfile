@@ -1,0 +1,1 @@
+web: gunicorn sc2_ranks.wsgi
