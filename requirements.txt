@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 setuptools==1.4.2
-BeautifulSoup==3.2.1
-Django==1.5
 distribute==0.7.3
-=======
->>>>>>> e7b8d61c3fe253777a46989b99aadbbd508b3ba6
+BeautifulSoup==3.2.1
 dj-database-url==0.2.2
 dj-static==0.0.5
 django-toolbelt==0.0.1
@@ -15,6 +11,5 @@ wsgiref==0.1.2
 yolk==0.4.3
 Django==1.5.2
 beautifulsoup4==4.3.1
-distribute==0.7.3
 psycopg2==2.5.1
 
